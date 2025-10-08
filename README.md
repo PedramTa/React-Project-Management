@@ -30,9 +30,11 @@ A React-based project management dashboard designed to help teams track tasks, p
 2. Clone the repository  
    ```bash
    git clone https://github.com/PedramTa/React-Project-Management.git
+    ```bash
 3.Navigate to the project folder
 ```bash
 cd React-Project-Management
+ ```bash
 
 4. Install dependencies
 ```bash
